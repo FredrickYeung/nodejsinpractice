@@ -1,0 +1,1 @@
+process.kill(4985, 'SIGHUP')
